@@ -1,3 +1,4 @@
+ HEAD
 # 🛍️ ShopEase Customer Support Chatbot
 
 A production-ready, AI-powered customer support chatbot for e-commerce, built with FastAPI, Streamlit, LangChain, and OpenAI GPT-4o. Features real-time streaming responses, long-term conversation memory, and a professional chat interface.
@@ -449,3 +450,6 @@ For questions or issues:
 ---
 
 **Built with ❤️ for ShopEase**
+=======
+# ALGO_HUB_PROJECT_2
+>>>>>>> ae72ac2d9c4c33573973391d11e82844e080229f
