@@ -1,47 +1,5 @@
-# Root Requirements - E-commerce Customer Support Chatbot
-# This file includes all dependencies for both backend and frontend
-
-# ===== BACKEND DEPENDENCIES =====
-
-# FastAPI and serverstreamlit>=1.39.0
-streamlit>=1.28.1
-requests>=2.31.0
-python-dotenv>=1.0.0
-pandas>=2.2.0
-pillow>=10.4.0
-
-# OpenAI and LangChain
-openai==1.3.7
-langchain==0.1.0
-langchain-openai==0.0.2
-langchain-community==0.0.10
-langchain-core==0.1.0
-
-# Google AI (Gemini) - Free alternative to OpenAI
-google-generativeai==0.3.2
-
-# Environment management
-python-dotenv==1.0.0
-
-# Data validation
-pydantic==2.5.0
-pydantic-settings==2.1.0
-
-# HTTP client
-requests==2.31.0
-httpx==0.25.2
-
-# Utilities
-python-jose[cryptography]==3.3.0
-passlib[bcrypt]==1.7.4
-
-# ===== FRONTEND DEPENDENCIES =====
-
-# Streamlit and UI
-streamlit==1.28.1
-
-# Data handling
-pandas==2.1.3
-
-# Date/time utilities
-python-dateutil==2.8.2
+streamlit
+pandas
+requests
+python-dotenv
+pillow
