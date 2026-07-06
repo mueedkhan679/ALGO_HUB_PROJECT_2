@@ -7,10 +7,10 @@ python-multipart==0.0.6
 
 # OpenAI and LangChain
 streamlit
-pandas
 requests
 python-dotenv
 pillow
+pandas==2.2.2 --only-binary :all:
 
 # Google AI (Gemini) - Free alternative to OpenAI
 google-generativeai==0.3.2
